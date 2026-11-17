@@ -1,0 +1,27 @@
+
+# Environment secrets
+.env
+.env.*
+!.env.example
+
+# Dependencies
+node_modules/
+
+# Build files
+dist/
+
+# SQLite database
+data/*.db
+data/*.db-shm
+data/*.db-wal
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/

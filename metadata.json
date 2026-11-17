@@ -1,0 +1,6 @@
+{
+  "name": "A-MIISAAN CONSTRUCTION CO. — Accountant Management System",
+  "description": "Accountant Management System for A-MIISAAN CONSTRUCTION CO. managing projects, expenses, Excel imports, quotations, supplier purchases, A4 PDF financial reports, and role-based user access.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
